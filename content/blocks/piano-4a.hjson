@@ -1,4 +1,4 @@
-buildVisibility: debug
+buildVisibility: debugOnly
 activeSound: piano-4a
 activeSoundVolume: 50
 size: 1
